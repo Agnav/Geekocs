@@ -1,3 +1,3 @@
 # Geekocs
 Responsive website for a instagram community 
-[link]( https://agnav.github.io/geekocs/)
+[link](https://667d93a5fc8ca02100714d76--geekocs.netlify.app/)
