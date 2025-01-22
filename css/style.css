@@ -44,6 +44,20 @@ nav ul li a {
   transition: 0.8s;
 }
 
+.html-marquee {
+  height:200px;
+  width:400px;
+  background-color:#ffffff;
+  font-family:Verdana;
+  font-size:14px;
+  color:#ff0000;
+  font-weight:bold;
+  border-width:4;
+  border-style:dotted;
+  border-color:#000000;
+}
+
+
 .intro-bg {
   top: 30px;
   background-image: linear-gradient(
